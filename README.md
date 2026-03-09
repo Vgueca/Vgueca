@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Valentín and I'm a mathematician and computer scientist from Spain, currently doing my PhD at VCU</h2>
+<h2 align="left">Hi 👋! My name is Valentín and I'm a mathematician and computer scientist from Spain, currently doing my PhD at Virginia Commonwealth University.</h2>
 
 ###
 
@@ -35,13 +35,15 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/juan-valentin-guerrero-cano/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="linkedin logo" />
   </a>
+  <img width="15" />
   <a href="mailto:guerrerocajv@vcu.edu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="35" alt="email logo" />
   </a>
+  <img width="15" />
   <a href="https://scholar.google.com/citations?user=5fW-XRcAAAAJ&hl=en&oi=ao" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Google%20Scholar&logo=google-scholar&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="google scholar logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="35" alt="google scholar logo" />
   </a>
 </div>
 
