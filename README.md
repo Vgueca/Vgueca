@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Valentín and I'm a mathematician and computer scientist from Spain, currently doing my PhD at VCU</h2>
+<h2 align="left">Hi 👋! My name is Valentín and I'm a mathematician and computer scientist from Spain, currently doing my PhD at Virginia Commonwealth University.</h2>
 
 ###
 
